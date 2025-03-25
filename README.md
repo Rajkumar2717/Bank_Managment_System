@@ -7,7 +7,7 @@ Talking about the features of the Bank Management System, a user can create an a
 This simple console based Bank Management system provides the simplest management of bank account and transaction. In short, this projects mainly focus on CRUD. There’s an external database connection file used in this mini project to save user’s data permanently.
 
 
-**Features Of These Project**
+****Features Of These Project****
 
 Basically you can have all sort of functionality which does a normal banks do have.
 
